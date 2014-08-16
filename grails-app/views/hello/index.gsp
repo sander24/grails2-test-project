@@ -8,9 +8,10 @@
     </p>
     
     <p>
-      Person from controller: ${person.name}
+      <h3>Person from controller</h3> <br/> 
+      <b>person.firstName:</b>  ${person.firstName} <br />
+      <b>person.name():</b>  ${person.name()} <br />
     </p>
     
 	</body>
 </html>
-  
